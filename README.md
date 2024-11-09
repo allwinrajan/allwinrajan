@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvin Irudaya Rajan</h1>
-<h2 align="center">Passionate Java Developer | SQL & Web Technology Expert | DevOps Enthusiast | Networking Knowledgeable</h2>
+<h2 align="center">Professional Java Developer | SQL & Web Technology Expert | DevOps Enthusiast | Networking Knowledgeable</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allwinrajan&label=Profile%20views&color=0e75b6&style=flat" alt="allwinrajan" /> </p>
 
@@ -11,7 +11,10 @@
 
 - 🌟 Frontend Technologies **HTML | CSS**
 
-- 🌟 My projects & Intern are Flipkart Intern - Created Console Based Application | Academic Project - Sensory Detector Hazardous Gases In Poultry Farm - Created GUI to Monitor live Gas level
+- 🌟 My projects & Intern are
+Technology : HTML,CSS,JAVA
+Description : During my internship at Flipkart, I contributed to building a console-based application by focusing on the user interface. I designed and implemented the UI, ensuring it was user-friendly, while leveraging Java to manage backend interactions.
+Impact : The project improved user data management by providing a streamlined interface for efficient data input, retrieval, and updates.
 
 - 📫 How to reach me [alvinirudayarajan@gmail.com](alvinirudayarajan@gmail.com)
 
