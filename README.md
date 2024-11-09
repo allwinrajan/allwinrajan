@@ -11,10 +11,11 @@
 
 - 🌟 Frontend Technologies **HTML | CSS**
 
-- 🌟 My projects & Intern are
--Technology : HTML,CSS,JAVA
--Description : During my internship at Flipkart, I contributed to building a console-based application by focusing on the user interface. I designed and implemented the UI, ensuring it was user-friendly, while leveraging Java to manage backend interactions.
--Impact : The project improved user data management by providing a streamlined interface for efficient data input, retrieval, and updates.
+- 🌟 My Intern are
+During my internship at Flipkart, I designed and implemented a user-friendly console-based UI using HTML, CSS, and Java, enhancing user data management through efficient input, retrieval, and updates.
+
+- 🌟 My projects are
+During my Academic , The Hazardous Gas Detection Dashboard is a web-based application utilizing HTML, CSS, and LSTM networks to monitor and predict hazardous gas levels in real-time, enhancing safety and health standards in high-risk environments.
 
 - 📫 How to reach me [alvinirudayarajan@gmail.com](alvinirudayarajan@gmail.com)
 
