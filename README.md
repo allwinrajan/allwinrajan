@@ -12,9 +12,9 @@
 - 🌟 Frontend Technologies **HTML | CSS**
 
 - 🌟 My projects & Intern are
-Technology : HTML,CSS,JAVA
-Description : During my internship at Flipkart, I contributed to building a console-based application by focusing on the user interface. I designed and implemented the UI, ensuring it was user-friendly, while leveraging Java to manage backend interactions.
-Impact : The project improved user data management by providing a streamlined interface for efficient data input, retrieval, and updates.
+-Technology : HTML,CSS,JAVA
+-Description : During my internship at Flipkart, I contributed to building a console-based application by focusing on the user interface. I designed and implemented the UI, ensuring it was user-friendly, while leveraging Java to manage backend interactions.
+-Impact : The project improved user data management by providing a streamlined interface for efficient data input, retrieval, and updates.
 
 - 📫 How to reach me [alvinirudayarajan@gmail.com](alvinirudayarajan@gmail.com)
 
