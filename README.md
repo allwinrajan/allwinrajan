@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alvin Irudaya Rajan</h1>
+<h1 align="center">Welcome 👋, I'm <b>Alvin Irudaya Rajan<b></h1>
 <h2 align="center">Professional Java Developer | SQL & Web Technology Expert | DevOps Enthusiast | Networking Knowledgeable</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allwinrajan&label=Profile%20views&color=0e75b6&style=flat" alt="allwinrajan" /> </p>
@@ -17,11 +17,11 @@
 - 🌟 My projects are
 **During my Academic , The Hazardous Gas Detection Dashboard is a web-based application utilizing HTML, CSS, and LSTM networks to monitor and predict hazardous gas levels in real-time, enhancing safety and health standards in high-risk environments.**
 
-- 📫 How to reach me [alvinirudayarajan@gmail.com](alvinirudayarajan@gmail.com)
-
 - 🌟 Operating System **Windows | Linux**
 
 - 🌟 Version Control **Git | GitHub**
+
+- 📫 How to reach me [alvinirudayarajan@gmail.com](alvinirudayarajan@gmail.com)
 
 - ⚡ Visit Linkedin Profile Here **http://www.linkedin.com/in/allwin-iruthaya-rajan**
 
