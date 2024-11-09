@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋, I'm <b>Alvin Irudaya Rajan<b></h1>
+<h1 align="center">Welcome 👋, I'm <bold>Alvin Irudaya Rajan<bold></h1>
 <h2 align="center">Professional Java Developer | SQL & Web Technology Expert | DevOps Enthusiast | Networking Knowledgeable</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allwinrajan&label=Profile%20views&color=0e75b6&style=flat" alt="allwinrajan" /> </p>
