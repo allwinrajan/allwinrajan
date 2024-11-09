@@ -11,7 +11,7 @@
 
 - 🌟 Frontend Technologies **HTML | CSS**
 
-- 🌟 My projects & Intern are [Flipkart Intern - Created Console Based Application | Academic Project - Sensory Detector Hazardous Gases In Poultry Farm - Created GUI to Monitor live Gas level](Flipkart Intern - Created Console Based Application | Academic Project - Sensory Detector Hazardous Gases In Poultry Farm - Created GUI to Monitor live Gas level)
+- 🌟 My projects & Intern are Flipkart Intern - Created Console Based Application | Academic Project - Sensory Detector Hazardous Gases In Poultry Farm - Created GUI to Monitor live Gas level
 
 - 📫 How to reach me [alvinirudayarajan@gmail.com](alvinirudayarajan@gmail.com)
 
