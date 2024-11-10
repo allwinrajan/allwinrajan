@@ -1,5 +1,5 @@
-<h1 align="center">Welcome 👋, I'm <bold>Alvin Irudaya Rajan<bold></h1>
-<h2 align="center">Professional Java Developer | SQL & Web Technology Expert | DevOps Enthusiast | Networking Knowledgeable</h2>
+<h1 align="center">Welcome 👋, I'm Alvin Irudaya Rajan </h1>
+<h2 align="center">Professional Java Developer | SQL & Web Technology | DevOps Skills </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allwinrajan&label=Profile%20views&color=0e75b6&style=flat" alt="allwinrajan" /> </p>
 
@@ -8,6 +8,8 @@
 - 🌟 Query Launguage **SQL**
 
 - 🌟 Backend Technologies **Java**
+
+- 🌟 Cloud Computing **Amazon Web Services(AWS)**
 
 - 🌟 Frontend Technologies **HTML | CSS**
 
@@ -18,6 +20,8 @@
 - 🌟 Operating System **Windows | Linux**
 
 - 🌟 Version Control **Git | GitHub**
+
+- 🌟 Frameworks **JDBC | Hibernate**
 
 - 🌟 Intern |
 **During my internship at Flipkart, I designed and implemented a user-friendly console-based UI using HTML, CSS, and Java, enhancing user data management through efficient input, retrieval, and updates.**
