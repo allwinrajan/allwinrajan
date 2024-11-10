@@ -15,7 +15,7 @@
 
 - 🌟 Build Management Tool **Maven**
 
-- 🌟 Continuous Integration / Continuous Delivery Tool **Jenkins**
+- 🌟 Continuous Integration Tool **Jenkins**
 
 - 🌟 Operating System **Windows | Linux**
 
