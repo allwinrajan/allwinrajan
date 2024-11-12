@@ -9,13 +9,15 @@
 
 - 🌟 Backend Technologies **Java**
 
+- 🌟 Shell / Bash Scripting **SQL**
+
 - 🌟 Cloud Computing **Amazon Web Services(AWS)**
 
 - 🌟 Frontend Technologies **HTML | CSS**
 
 - 🌟 Build Management Tool **Maven**
 
-- 🌟 Continuous Integration Tool **Jenkins**
+- 🌟 CI/CD Tool **Jenkins**
 
 - 🌟 Operating System **Windows | Linux**
 
@@ -29,7 +31,7 @@
 - 🌟 Projects |
 **During my Academic , The Hazardous Gas Detection Dashboard is a web-based application utilizing HTML, CSS, and LSTM networks to monitor and predict hazardous gas levels in real-time, enhancing safety and health standards in high-risk environments.**
 
-- 📫 How to reach me [alvinirudayarajan@gmail.com](alvinirudayarajan@gmail.com)
+- 📫 Contact info [alvinirudayarajan@gmail.com](alvinirudayarajan@gmail.com)
 
 - ⚡ Visit Linkedin Profile Here **http://www.linkedin.com/in/allwin-iruthaya-rajan**
 
