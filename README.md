@@ -25,6 +25,8 @@
 
 - 🌟 Frameworks **JDBC | Hibernate**
 
+- **Network Fundamentals**
+
 - 🌟 Intern |
 **During my internship at Flipkart, I designed and implemented a user-friendly console-based UI using HTML, CSS, and Java, enhancing user data management through efficient input, retrieval, and updates.**
 
