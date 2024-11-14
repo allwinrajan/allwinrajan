@@ -9,7 +9,7 @@
 
 - 🌟 Backend Technologies **Java**
 
-- 🌟 Scripting Language **Shell/Bash**
+- 🌟 Scripting Language **Shell/Bash scripting**
 
 - 🌟 Cloud Computing **Amazon Web Services(AWS)**
 
