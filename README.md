@@ -42,7 +42,7 @@
 ---
 
 ### 🛠️ Languages & Tools:
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- Java -->
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   
@@ -78,7 +78,7 @@
 
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-</p>
+</div>
 
 ---
 
@@ -89,5 +89,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=allwinrajan" alt="allwinrajan" />
 </p>
-
-
