@@ -43,7 +43,7 @@
 
 ### 🛠️ Languages & Tools:
 
-<p align="center">
+
   <!-- Java -->
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/></a>
   
@@ -79,7 +79,7 @@
 
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/></a>
-</p>
+
 
 ---
 
