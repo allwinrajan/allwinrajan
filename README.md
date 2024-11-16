@@ -42,7 +42,7 @@
 ---
 
 ### 🛠️ Languages & Tools:
-<div align="center" style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 20px; justify-content: center; width: 80%;">
+
   <!-- Java -->
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/></a>
   
@@ -78,7 +78,7 @@
 
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/></a>
-</div>
+
 
 
 ---
