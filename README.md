@@ -65,3 +65,35 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=allwinrajan" alt="allwinrajan" />
 </p>
+
+
+
+
+
+<div align="center">
+  <h1>Welcome to My GitHub Profile! 👋</h1>
+  
+  <!-- GitHub Stats -->
+  <h2>📊 My GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <!-- GitHub Streak Stats -->
+  <h2>🔥 GitHub Streak</h2>
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark" alt="GitHub Streak" />
+  
+  <!-- Top Languages -->
+  <h2>💻 Top Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <!-- GitHub Trophies -->
+  <h2>🏆 GitHub Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark" alt="GitHub Trophies" />
+  
+  <!-- Activity Graph -->
+  <h2>📈 GitHub Contribution Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+  
+  <!-- Inspirational Quote -->
+  <h2>💡 Inspirational Quote</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote" />
+</div>
