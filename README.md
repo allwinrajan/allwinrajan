@@ -25,7 +25,7 @@
 
 ### 🌟 Internship Highlights:
 - **Flipkart:**  
-  Designed and implemented a user-friendly console-based UI using HTML, CSS, and Java, enhancing user data management through efficient input, retrieval, and updates.
+  Designed and implemented a user-friendly web UI using HTML, CSS, and Java, enhancing user data management through efficient input, retrieval, and updates.
 
 ---
 
