@@ -1,3 +1,5 @@
+![logo](alvin irudaya rajan s.png)
+---
 <h1 align="center">Welcome 👋, I'm Alvin Irudaya Rajan</h1>
 <h2 align="center">✨ Professional Java Developer | SQL & Web Technologies | DevOps Enthusiast ✨</h2>
 <img align=right alt="coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
