@@ -1,4 +1,4 @@
-![logo](alvin irudaya rajan s.png)
+![logo](https://github.com/allwinrajan/allwinrajan/blob/dec3c4ec7425955cd0ec30fd8f87688e3d5423b5/alvin%20irudaya%20rajan%20s.png)
 ---
 <h1 align="center">Welcome 👋, I'm Alvin Irudaya Rajan</h1>
 <h2 align="center">✨ Professional Java Developer | SQL & Web Technologies | DevOps Enthusiast ✨</h2>
