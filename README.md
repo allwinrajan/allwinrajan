@@ -3,7 +3,7 @@
 <h2 align="center">✨ Professional Java Developer | SQL & Web Technologies | DevOps Enthusiast ✨</h2>
 <img align=right alt="coding" width="400" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=allwinrajan&label=Profile%20views&color=0e75b6&style=flat" alt="allwinrajan" />
 </p>
 
