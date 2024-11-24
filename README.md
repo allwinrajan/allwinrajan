@@ -4,12 +4,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=allwinrajan&label=Profile%20views&color=0e75b6&style=flat" alt="allwinrajan" />
 </p>
-
-<img align=right alt="coding" width="400px" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
-
 ---
 
 ### 🌟 About Me:
+<img align=right alt="coding" width="400px" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 - 🚀 Passionate about **Full Stack Java Development**  
 - 🧠 Expertise in **SQL**  
 - 💻 Backend Technologies: **Java**  
