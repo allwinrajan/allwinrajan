@@ -1,13 +1,13 @@
 <h1 align="center">Welcome 👋, I'm Alvin Irudaya Rajan</h1>
 <h2 align="center">✨ Professional Java Developer | SQL & Web Technologies | DevOps Enthusiast ✨</h2>
+<img align=right alt="coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=allwinrajan&label=Profile%20views&color=0e75b6&style=flat" alt="allwinrajan" />
 </p>
 ---
 
 ### 🌟 About Me:
-<img align=right alt="coding" width="400px" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 - 🚀 Passionate about **Full Stack Java Development**  
 - 🧠 Expertise in **SQL**  
 - 💻 Backend Technologies: **Java**  
