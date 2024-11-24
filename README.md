@@ -2,7 +2,7 @@
 ---
 <h1 align="center">Welcome 👋, I'm Alvin Irudaya Rajan</h1>
 <h2 align="center">✨ Professional Java Developer | SQL & Web Technologies | DevOps Enthusiast ✨</h2>
-<img align=right alt="coding" width="400" src="[https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif](https://media.licdn.com/dms/image/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=DYB6FnITNxuARcfpfcdvmdqdGx3nXJjBe7hEXOfLQXE)">
+<img align=right alt="coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif](https://media.licdn.com/dms/image/D4D12AQEDqzq9LkGBBw/article-cover_image-shrink_600_2000/0/1663786260509?e=2147483647&v=beta&t=DYB6FnITNxuARcfpfcdvmdqdGx3nXJjBe7hEXOfLQXE">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=allwinrajan&label=Profile%20views&color=0e75b6&style=flat" alt="allwinrajan" />
