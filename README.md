@@ -71,5 +71,5 @@
 
 ---
   <h2>💡 Inspirational Quote</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote" />
+  <h3>🌟The only way to do great work is love what you do.... </h3>
 
