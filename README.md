@@ -72,3 +72,11 @@
   <h2>💡 Inspirational Quote</h2>
   <h3>🌟The only way to do great work is love what you do.... </h3>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
