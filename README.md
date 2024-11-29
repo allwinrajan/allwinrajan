@@ -70,8 +70,6 @@
 
 
 ---
-  <h2>💡 Inspirational Quote</h2>
-  <h3>🌟The only way to do great work is love what you do.... </h3>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -81,5 +79,6 @@
   <br/><br/><br/>
 </div>
 
-
+ <h2>💡 Inspirational Quote</h2>
+  <h3>🌟The only way to do great work is love what you do.... </h3>
 
