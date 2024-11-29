@@ -1,13 +1,12 @@
 ![logo](https://github.com/allwinrajan/allwinrajan/blob/dec3c4ec7425955cd0ec30fd8f87688e3d5423b5/alvin%20irudaya%20rajan%20s.png)
-<h1 align="center">Welcome 👋, I'm Alvin Irudaya Rajan</h1>
-<h2 align="center">✨ Professional Java Developer | SQL & Web Technologies | DevOps Enthusiast ✨</h2>
-<img align=right alt="coding" width="400" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alvin+Irudaya+Rajan!;" />
 </h1>
 
-
+<h2 align="center">✨ Professional Java Developer | SQL & Web Technologies | DevOps Enthusiast ✨</h2>
+<img align=right alt="coding" width="400" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
 
 ### 🌟 About Me:
 - 🚀 Passionate about **Full Stack Java Development**  
