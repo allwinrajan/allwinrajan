@@ -20,6 +20,7 @@
 - 🖥️ Operating Systems: **Windows | Linux**  
 - 🌍 Version Control: **Git | GitHub**  
 - 🌱 Frameworks: **JDBC | Hibernate**  
+- 🐳 Containerization: **Docker & DockerHub**
 - 🌐 **Networking Fundamentals**
 
 ---
