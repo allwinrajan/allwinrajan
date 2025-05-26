@@ -1,5 +1,8 @@
-<h1 align="center">Alvin Irudaya Rajan</h1>
-<h3 align="center">Cloud & DevOps Engineer | Security Architect | Infrastructure Specialist</h3>
+<div align="center" style="margin: 0; padding: 0;">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There;+I'm+Alvin+Irudaya+Rajan!;+Devops+Enginner;+Cloud+Engineer;+Solution+Architect;+vulnerability+Researcher;+Cybersecurity+Analyst+Researcher!;+Ethical+Hacker!" />
+</div>
+
+<h3 align="center" style="margin-top: 5px;">Cloud & DevOps Engineer | Security Architect | Infrastructure Specialist</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws&logoColor=white"/>
@@ -12,7 +15,7 @@
 
 ### About Me
 
-I'm **Alvin Irudaya Rajan**, a driven **Cloud & DevOps Engineer** with strong expertise in building resilient, scalable, and secure infrastructure solutions across hybrid environments (AWS + On-Prem). My core passion lies in DevSecOps, infrastructure automation, observability, and securing mission-critical systems.
+I'm **Alvin Irudaya Rajan**, **Cloud & DevOps Engineer** with strong expertise in building resilient, scalable, and secure infrastructure solutions across hybrid environments (AWS + On-Prem). My core passion lies in DevSecOps, infrastructure automation, observability, and securing mission-critical systems.
 
 ---
 
@@ -24,7 +27,7 @@ Graduated: 2024
 
 ---
 
-<h2 align="center">🚀 Skills & Technologies</h2>
+### Skills & Technologies
 
 <p align="center">
   <!-- ☁️ Cloud Platforms & Services -->
@@ -115,10 +118,9 @@ Graduated: 2024
 *2024 – Present*
 
 - Designed and deployed complex multi-tier hybrid architecture using AWS and on-prem resources.
-- Integrated DevSecOps best practices including CI/CD, IAM hardening, and audit-ready controls.
+- Integrated DevSecOps best practices including CICD, IAM hardening, and audit-ready controls.
 - Built end-to-end observability stack using Prometheus + Grafana.
-- Reduced AWS billing by $314 by identifying unoptimized lifecycle policies and EC2 misconfigurations.
-- Automated deployments with Jenkins and Ansible across environments with rollback strategy.
+- Automated deployments with Github Actions across environments with rollback strategy.
 
 ---
 
@@ -151,17 +153,17 @@ Graduated: 2024
 
 ### Personal Projects
 
-- **Cloud Portfolio Hosting** — S3 + CloudFront, GitHub Actions  
-- **Hazardous Gas Detection** — LSTM-based alerts, Flask backend on Lambda  
-- **E-commerce Backend Microservices** — Spring Boot + Docker + Kubernetes with Jenkins pipelines  
+- **Cloud Portfolio Hosting** - S3 + CloudFront, GitHub Actions  
+- **Hazardous Gas Detection** - LSTM-based alerts, Flask backend on Lambda  
+- **E-commerce Backend Microservices** - Spring Boot + Docker + Kubernetes with Jenkins pipelines  
 
 ---
 
 ### Let's Connect
 
-<a href="mailto:alvinirudayarajan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" /></a>  
-<a href="https://www.linkedin.com/in/allwin-iruthaya-rajan"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" /></a>  
-<a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>  
+<a href="mailto:alvin.devopsengineer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" /></a>  
+<a href="https://www.linkedin.com/in/alvinirudayarajan"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" /></a>  
+<a href="https://wa.me/9025419508"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>  
 <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white" /></a>  
 
 ---
