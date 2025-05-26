@@ -1,5 +1,5 @@
 <div align="center" style="margin: 0; padding: 0;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There;+I'm+Alvin+Irudaya+Rajan!;+Devops+Enginner;+Cloud+Engineer;+Solution+Architect;+vulnerability+Researcher;+Cybersecurity+Analyst+Researcher!;+Ethical+Hacker!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There;+I'm+Alvin+Irudaya+Rajan!;+Devops+Enginner;+Cloud+Engineer;+Solution+Architect;+vulnerability+Researcher!;+Cybersecurity+Analyst!;+Cybersecurity+Researcher!;+Ethical+Hacker!" />
 </div>
 
 <h3 align="center" style="margin-top: 5px;">Cloud & DevOps Engineer | Security Architect | Infrastructure Specialist</h3>
@@ -170,12 +170,12 @@ Graduated: 2024
 
 ### Quote
 
-> “Security is not a product, but a process.” — *Bruce Schneier*
-> “Devops is Devilery a product to end user in a better, cheaper, faster and secure way.” — *Alvin*
+> “Security is not a product, but a process.” — *Bruce Schneier* <br>
+> “Devops is Devilery a product to the customer in a better, cheaper, faster and secure way.” — *Alvin*
 ---
 
-### Portfolio Project
+### Portfolio
 
-[![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge&logo=amazon-aws)](https://myportfolioforalvin.s3.ap-south-1.amazonaws.com/my_Portfolio/index.html)
+[![View my Website](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge&logo=amazon-aws)](https://myportfolioforalvin.s3.ap-south-1.amazonaws.com/my_Portfolio/index.html)
 
 ![Hosted on AWS S3](https://img.shields.io/badge/Hosted_on-AWS_S3-orange?style=flat-square&logo=amazon-aws&logoColor=white)
