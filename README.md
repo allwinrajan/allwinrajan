@@ -1,92 +1,126 @@
 <!-- README.md - Premium Professional GitHub Profile -->
 
-<!-- Logo -->
-<p align="center">
-  <img src="https://github.com/allwinrajan/allwinrajan/blob/dec3c4ec7425955cd0ec30fd8f87688e3d5423b5/alvin%20irudaya%20rajan%20s.png" alt="Alvin Irudaya Rajan Logo" width="150"/>
-</p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alvin+Irudaya+Rajan!" />
 </h1>
 
-<h2 align="center">🚀 DevOps & Cloud Engineer | Security Specialist | Full Stack Architect 🚀</h2>
+<h1 align="center">👨‍💻 Alvin Irudaya Rajan — Cloud & DevOps Engineer | Security Architect | Infrastructure Specialist</h1>
 
----
-
-### 🧠 About Me
-
-🔹 **Cloud & DevOps Engineer** – Building complex cloud-native, containerized solutions using **AWS, Docker, Kubernetes, Helm, and ArgoCD**  
-🔹 **Security Expert** – Practicing ethical hacking and now a **Defensive Security Professional**  
-🔹 **Solution Architect** – Delivering full-stack scalable apps using **Java, .NET, Python**  
-🔹 **Frontend Specialist** – ReactJS, NextJS, TailwindCSS, AngularJS  
-🔹 **CI/CD Mastery** – Jenkins, GitHub Actions, Ansible, Tomcat, Nginx  
-🔹 **Monitoring Tools** – Splunk, Grafana, Prometheus  
-🔹 **Linux Guru** – Shell/Bash scripting & advanced server management
-
----
-
-### 🧩 My Journey
-> From coding in Java to orchestrating complex DevOps pipelines and securing cloud infrastructure, I’ve walked the journey from developer to architect. My passion for security came after hacking, and now I defend digital systems. I believe in building elegant solutions, solving tough problems, and sharing knowledge with the world.
-
----
-
-### 🧪 Projects Showcase
-- **Cloud-based Microservices Architecture** – Docker, Kubernetes, Helm on AWS
-- **CI/CD Pipeline Setup** – Jenkins + GitHub Actions + Ansible + Tomcat
-- **Defensive Security Monitoring** – AWS + Grafana + Prometheus + Splunk
-- **AI-Based Threat Detection Dashboard** – ReactJS, Flask, TensorFlow
-- **Full Stack E-Commerce App** – Next.js, TailwindCSS, Java, MongoDB
-
----
-
-### 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" title=".NET"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="ReactJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" title="NextJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" title="AngularJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="TailwindCSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" title="GitHub"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" title="Jenkins"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" title="Grafana"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" title="Prometheus"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" title="Ansible"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-Kubernetes-blue?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Infrastructure-On--Prem%20&%20Cloud-critical?style=flat&logo=server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CyberSecurity-Defense%20Security-black?style=flat&logo=protonvpn&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allwinrajan&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allwinrajan&theme=dark" alt="Streak Stats"/>
+## 🧑‍🏫 Introduction
+
+I'm **Alvin Irudaya Rajan**, a dynamic and solution-driven **Cloud & DevOps Engineer** with practical experience in building secure, automated, and scalable infrastructure across hybrid environments (AWS + On-Prem). With a strong foundation in cybersecurity and infrastructure automation, I specialize in integrating DevSecOps strategies and implementing observability-driven systems for mission-critical architectures.
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Engineering in Computer Science and Engineering**  
+  🎓 *M.A.M. School of Engineering, Trichy, Tamil Nadu*  
+  🗓️ *Graduated: 2024*
+
+---
+
+## 🧰 Core Skills & Technologies
+
+### ☁️ Cloud & DevOps
+<img src="https://img.shields.io/badge/AWS-Expert-orange?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=flat&logo=terraform&logoColor=white"/>
+- VPC, EC2, Lambda, S3, IAM, Route53, EKS, RDS, ACM
+- CI/CD pipelines using Jenkins, GitHub Actions, and ArgoCD
+- Docker, Kubernetes, Helm, Ansible
+- NGINX (with reverse proxy) and Apache
+
+### 🔐 Cybersecurity & Monitoring
+<img src="https://img.shields.io/badge/Grafana-Metrics-F46800?style=flat&logo=grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-Observability-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+- Implemented defense-grade security architecture
+- Infrastructure-level encryption and traffic filtering
+- Monitoring with Prometheus, Grafana
+- Alerts and log streaming with ELK and AWS CloudWatch
+
+### 🖥️ Development
+- **Frontend:** HTML, CSS, React.js, Angular, Tailwind
+- **Backend:** Java, Python, .NET
+- **Automation:** Shell scripting, Ansible, YAML
+- **Version Control:** Git, GitHub, GitLab
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 Agnoshin Technologies (Full-Time)
+**Role:** Associate Software Engineer – Cloud & DevOps (Security-Focused)  
+🗓️ *2024 – Present*
+
+#### Key Contributions:
+- 💡 **Designed & Deployed a Complex Multi-Tier Architecture** across AWS and On-Prem resources following strict DevSecOps practices.
+- 🔒 **Implemented Secure Monitoring & Logging Systems** with *Grafana* + *Prometheus*, optimizing incident detection in a defense-oriented architecture.
+- 🧠 **Hands-on AWS Resource Optimization:** Helped save $314 in hidden recurring billing via cost-analysis tools and custom alerts.
+- 🔄 **Built CI/CD pipelines** integrated with Jenkins and Ansible for multi-environment deployment, improving deployment frequency and reliability.
+
+---
+
+## 🔧 Projects
+
+### 1. **Three-Tier Secure Web Application (AWS + DevOps)**
+- Implemented on AWS with VPC, NAT, Subnet segregation, Security Groups
+- CI/CD integrated via Jenkins and GitHub
+- Secured with ACM (SSL), WAF, and full DNS management via Route53
+- Hardened OS using custom AMIs for web and DB layers
+
+### 2. **Defense-Grade Monitoring & Logging System**
+- Real-time alerting and visualization using Grafana and Prometheus
+- Custom metrics from Java-based microservices integrated into dashboards
+- Logs centralized using Logstash and visualized in Kibana
+
+### 3. **Automated Web App Deployment using NGINX + Jenkins + Ansible**
+- Reverse proxy setup using NGINX
+- Jenkins pipeline triggering Ansible playbooks for auto deployment
+- Ensured blue-green deployment strategy with rollback support
+
+---
+
+## 🏆 Achievements
+
+- 💰 **Resolved a $314 AWS Billing Spike** by identifying S3 lifecycle misconfigurations and EC2 overprovisioning.
+- 🤝 **Represented Agnoshin at SaaS Connect Event (Coimbatore)** – Engaged with leading engineers and architects to build strategic networks.
+- ⚡ Delivered 20+ microservices to production with zero-downtime and full observability.
+
+---
+
+## 🌱 Personal Projects
+
+- 🌐 **Cloud Portfolio Hosting** using S3 + CloudFront with GitHub Actions
+- 💻 **Hazardous Gas Detection System** powered by LSTM, deployed via Flask + AWS Lambda
+- 🛒 **Microservice-Based E-commerce Backend** – Spring Boot + Docker + Kubernetes, CI/CD integrated with Jenkins
+
+---
+
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="mailto:alvinirudayarajan@gmail.com"><img src="https://img.shields.io/badge/Email-alvinirudayarajan@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a><br>
+  <a href="https://www.linkedin.com/in/allwin-iruthaya-rajan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br>
+  <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white" /></a><br>
+  <a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a><br>
+  <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" /></a><br>
 </p>
 
 ---
 
-### 📱 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/alvinirudayarajan" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" title="LinkedIn"/></a>
-  <a href="https://www.instagram.com/alvinrajan.in" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" title="Instagram"/></a>
-  <a href="https://wa.me/9025419508" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" title="WhatsApp"/></a>
-  <a href="https://twitter.com/alvinrajann" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" title="Twitter"/></a>
-  <a href="https://youtube.com/@your_channel" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" title="YouTube"/></a>
-</p>
+## 📌 Quote to Live By
+
+> 🌟 “Security is not a product, but a process.” — *Bruce Schneier*
 
 ---
 
-### 💬 Quote
-<p align="center"><strong>“Your journey from hacker to defender shapes the systems of tomorrow.”</strong></p>
-
----
-
-<p align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</p>
+<!-- Elite-ready README crafted with security, cloud, and devops focus -->
