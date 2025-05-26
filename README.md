@@ -31,7 +31,7 @@ Graduated: 2024
 <table>
 <tr><th colspan="5" align="center">☁️ Cloud Platforms & Services</th></tr>
 <tr align="center">
-  <td><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="20"/> AWS</td>
+  <td><img src="https://cdn.simpleicons.org/amazon/232F3E" width="20"/> AWS</td>
   <td><img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="20"/> Azure</td>
   <td><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="20"/> GCP</td>
   <td><img src="https://cdn.simpleicons.org/openstack/ED1944" width="20"/> OpenStack</td>
