@@ -1,88 +1,92 @@
-![logo](https://github.com/allwinrajan/allwinrajan/blob/dec3c4ec7425955cd0ec30fd8f87688e3d5423b5/alvin%20irudaya%20rajan%20s.png)
+<!-- README.md - Premium Professional GitHub Profile -->
 
+<!-- Logo -->
+<p align="center">
+  <img src="https://github.com/allwinrajan/allwinrajan/blob/dec3c4ec7425955cd0ec30fd8f87688e3d5423b5/alvin%20irudaya%20rajan%20s.png" alt="Alvin Irudaya Rajan Logo" width="150"/>
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alvin+Irudaya+Rajan!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alvin+Irudaya+Rajan!" />
 </h1>
 
-<h2 align="center">✨ Professional Java Developer | SQL & Web Technologies | DevOps Enthusiast ✨</h2>
-<img align=right alt="coding" width="400" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
-
-### 🌟 About Me:
-- 🚀 Passionate about **Full Stack Java Development**  
-- 🧠 Expertise in **SQL**  
-- 💻 Backend Technologies: **Java**  
-- 🖥️ Scripting Languages: **Shell/Bash scripting**  
-- ☁️ Cloud Computing: **Amazon Web Services (AWS)**  
-- 🎨 Frontend Technologies: **HTML | CSS**  
-- ⚙️ Build Management: **Maven**  
-- 🔄 CI/CD Tool: **Jenkins**  
-- 🖥️ Operating Systems: **Windows | Linux**  
-- 🌍 Version Control: **Git | GitHub**  
-- 🌱 Frameworks: **JDBC | Hibernate**  
-- 🐳 Containerization: **Docker & DockerHub**
-- 🌐 **Networking Fundamentals**
+<h2 align="center">🚀 DevOps & Cloud Engineer | Security Specialist | Full Stack Architect 🚀</h2>
 
 ---
 
-### 🌟 Internship Highlights:
-- **Flipkart:**  
-  Designed and implemented a user-friendly web UI using HTML, CSS, and Java, enhancing user data management through efficient input, retrieval, and updates.
+### 🧠 About Me
+
+🔹 **Cloud & DevOps Engineer** – Building complex cloud-native, containerized solutions using **AWS, Docker, Kubernetes, Helm, and ArgoCD**  
+🔹 **Security Expert** – Practicing ethical hacking and now a **Defensive Security Professional**  
+🔹 **Solution Architect** – Delivering full-stack scalable apps using **Java, .NET, Python**  
+🔹 **Frontend Specialist** – ReactJS, NextJS, TailwindCSS, AngularJS  
+🔹 **CI/CD Mastery** – Jenkins, GitHub Actions, Ansible, Tomcat, Nginx  
+🔹 **Monitoring Tools** – Splunk, Grafana, Prometheus  
+🔹 **Linux Guru** – Shell/Bash scripting & advanced server management
 
 ---
 
-### 🌟 Projects:
-- **Hazardous Gas Detection Dashboard:**  
-  Developed a web-based application utilizing HTML, CSS, and LSTM networks to monitor and predict hazardous gas levels in real time, ensuring improved safety in high-risk environments.
+### 🧩 My Journey
+> From coding in Java to orchestrating complex DevOps pipelines and securing cloud infrastructure, I’ve walked the journey from developer to architect. My passion for security came after hacking, and now I defend digital systems. I believe in building elegant solutions, solving tough problems, and sharing knowledge with the world.
 
 ---
 
-### 📫 Contact Info:
-- Email: [alvinirudayarajan@gmail.com](mailto:alvinirudayarajan@gmail.com)  
-- LinkedIn: [http://www.linkedin.com/in/allwin-iruthaya-rajan](http://www.linkedin.com/in/allwin-iruthaya-rajan)
+### 🧪 Projects Showcase
+- **Cloud-based Microservices Architecture** – Docker, Kubernetes, Helm on AWS
+- **CI/CD Pipeline Setup** – Jenkins + GitHub Actions + Ansible + Tomcat
+- **Defensive Security Monitoring** – AWS + Grafana + Prometheus + Splunk
+- **AI-Based Threat Detection Dashboard** – ReactJS, Flask, TensorFlow
+- **Full Stack E-Commerce App** – Next.js, TailwindCSS, Java, MongoDB
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Skills & Tools
 <p align="center">
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="60" height="60"/></a>
-  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="60" height="60"/></a>
-  <a href="https://maven.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Maven" width="60" height="60"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/></a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="60" height="60"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" title=".NET"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="ReactJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" title="NextJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" title="AngularJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="TailwindCSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" title="GitHub"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" title="Jenkins"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" title="Grafana"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" title="Prometheus"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" title="Ansible"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=allwinrajan&show_icons=true&locale=en" alt="allwinrajan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allwinrajan&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allwinrajan&theme=dark" alt="Streak Stats"/>
 </p>
+
+---
+
+### 📱 Connect With Me
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=allwinrajan" alt="allwinrajan" />
+  <a href="https://www.linkedin.com/in/alvinirudayarajan" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" title="LinkedIn"/></a>
+  <a href="https://www.instagram.com/alvinrajan.in" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" title="Instagram"/></a>
+  <a href="https://wa.me/9025419508" target="_blank"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" title="WhatsApp"/></a>
+  <a href="https://twitter.com/alvinrajann" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" title="Twitter"/></a>
+  <a href="https://youtube.com/@your_channel" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" title="YouTube"/></a>
 </p>
 
+---
+
+### 💬 Quote
+<p align="center"><strong>“Your journey from hacker to defender shapes the systems of tomorrow.”</strong></p>
 
 ---
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-
----
-
- <h2>💡 Inspirational Quote</h2>
-  <h3>🌟The only way to do great work is love what you do.... </h3>
-
----
-<div align="center">
-<a href='https://myportfolioforalvin.s3.ap-south-1.amazonaws.com/my_Portfolio/index.html' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<p align="center">
+  <img alt="snake" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</p>
