@@ -26,90 +26,85 @@ Graduated: 2024
 
 <h2 align="center">🚀 Skills & Technologies</h2>
 
-<div align="center">
+<p align="center">
+  <!-- ☁️ Cloud Platforms & Services -->
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenStack-Cloud-ED1944?style=flat&logo=openstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-CDN-F38020?style=flat&logo=cloudflare&logoColor=white" />
+</p>
 
-<table>
-<tr><th colspan="5" align="center">☁️ Cloud Platforms & Services</th></tr>
-<tr align="center">
-  <td><img src="https://cdn.simpleicons.org/amazon/232F3E" width="20"/> AWS</td>
-  <td><img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="20"/> Azure</td>
-  <td><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="20"/> GCP</td>
-  <td><img src="https://cdn.simpleicons.org/openstack/ED1944" width="20"/> OpenStack</td>
-  <td><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="20"/> Cloudflare</td>
-</tr>
+<p align="center">
+  <!-- ⚙️ DevOps & Automation -->
+  <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=flat&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-K8s%20Charts-0F1689?style=flat&logo=helm&logoColor=white" />
+</p>
 
-<tr><th colspan="5" align="center">⚙️ DevOps & Automation</th></tr>
-<tr align="center">
-  <td><img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> Docker</td>
-  <td><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="20"/> Kubernetes</td>
-  <td><img src="https://cdn.simpleicons.org/ansible/EE0000" width="20"/> Ansible</td>
-  <td><img src="https://cdn.simpleicons.org/terraform/623CE4" width="20"/> Terraform</td>
-  <td><img src="https://cdn.simpleicons.org/helm/0F1689" width="20"/> Helm</td>
-</tr>
-<tr align="center">
-  <td><img src="https://cdn.simpleicons.org/nginx/009639" width="20"/> NGINX</td>
-  <td><img src="https://cdn.simpleicons.org/apache/CA2131" width="20"/> Apache</td>
-  <td><img src="https://cdn.simpleicons.org/jenkins/D24939" width="20"/> Jenkins</td>
-  <td><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="20"/> GitHub Actions</td>
-  <td><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argocd/icon/color/argocd-icon-color.png" width="20"/> ArgoCD</td>
-</tr>
+<p align="center">
+  <img src="https://img.shields.io/badge/NGINX-Web%20Server-009639?style=flat&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-Server-D22128?style=flat&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-CICD-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-Workflow-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-CD-EF7B4D?style=flat&logo=argo&logoColor=white" />
+</p>
 
-<tr><th colspan="5" align="center">🔐 Security & DevSecOps</th></tr>
-<tr align="center">
-  <td><img src="https://cdn.simpleicons.org/protonvpn/89C402" width="20"/> VPN & IAM</td>
-  <td><img src="https://cdn.simpleicons.org/wireguard/88171A" width="20"/> WireGuard</td>
-  <td><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="20"/> WAF/CDN</td>
-  <td><img src="https://cdn.simpleicons.org/letsencrypt/003A70" width="20"/> SSL/TLS</td>
-  <td><img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="20"/> SonarQube</td>
-</tr>
+<p align="center">
+  <!-- 🔐 Security & DevSecOps -->
+  <img src="https://img.shields.io/badge/VPN/IAM-Security-000000?style=flat&logo=protonvpn&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-VPN-88171A?style=flat&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/WAF/CDN-Protection-5A5A5A?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSL/TLS-Encrypted-0033A0?style=flat&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-Scanner-4E9BCD?style=flat&logo=sonarqube&logoColor=white" />
+</p>
 
-<tr><th colspan="5" align="center">📈 Monitoring & Observability</th></tr>
-<tr align="center">
-  <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" width="20"/> Prometheus</td>
-  <td><img src="https://cdn.simpleicons.org/grafana/F46800" width="20"/> Grafana</td>
-  <td><img src="https://cdn.simpleicons.org/elastic/005571" width="20"/> ELK Stack</td>
-  <td><img src="https://cdn.simpleicons.org/datadog/632CA6" width="20"/> Datadog</td>
-  <td><img src="https://raw.githubusercontent.com/aws-samples/aws-serverless-workshops/master/images/cloudwatch-logo.png" width="20"/> CloudWatch</td>
-</tr>
+<p align="center">
+  <!-- 📈 Monitoring & Observability -->
+  <img src="https://img.shields.io/badge/Prometheus-Monitoring-E6522C?style=flat&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK-Stack-005571?style=flat&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-Metrics-632CA6?style=flat&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-Logs-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white" />
+</p>
 
-<tr><th colspan="5" align="center">🛠️ Development & Scripting</th></tr>
-<tr align="center">
-  <td><img src="https://cdn.simpleicons.org/java/007396" width="20"/> Java</td>
-  <td><img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Python</td>
-  <td><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="20"/> Bash</td>
-  <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20"/> JavaScript</td>
-  <td><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="20"/> .NET</td>
-</tr>
+<p align="center">
+  <!-- 🛠️ Development & Scripting -->
+  <img src="https://img.shields.io/badge/Java-Backend-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Scripting-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/.NET-Framework-512BD4?style=flat&logo=dotnet&logoColor=white" />
+</p>
 
-<tr><th colspan="5" align="center">🎨 Frontend & UI Frameworks</th></tr>
-<tr align="center">
-  <td><img src="https://cdn.simpleicons.org/react/61DAFB" width="20"/> React</td>
-  <td><img src="https://cdn.simpleicons.org/angular/DD0031" width="20"/> Angular</td>
-  <td><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="20"/> Tailwind</td>
-  <td><img src="https://cdn.simpleicons.org/html5/E34F26" width="20"/> HTML5</td>
-  <td><img src="https://cdn.simpleicons.org/css3/1572B6" width="20"/> CSS3</td>
-</tr>
+<p align="center">
+  <!-- 🎨 Frontend & UI Frameworks -->
+  <img src="https://img.shields.io/badge/React-JS-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-JS-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-Web-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
 
-<tr><th colspan="5" align="center">🔄 CI/CD & Version Control</th></tr>
-<tr align="center">
-  <td><img src="https://cdn.simpleicons.org/git/F05032" width="20"/> Git</td>
-  <td><img src="https://cdn.simpleicons.org/github/181717" width="20"/> GitHub</td>
-  <td><img src="https://cdn.simpleicons.org/gitlab/FCA121" width="20"/> GitLab</td>
-  <td><img src="https://cdn.simpleicons.org/bitbucket/0052CC" width="20"/> Bitbucket</td>
-  <td><img src="https://cdn.simpleicons.org/azuredevops/0078D7" width="20"/> Azure DevOps</td>
-</tr>
+<p align="center">
+  <!-- 🔄 CI/CD & Version Control -->
+  <img src="https://img.shields.io/badge/Git-Versioning-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-Code-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-Code-0052CC?style=flat&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-CICD-0078D7?style=flat&logo=azuredevops&logoColor=white" />
+</p>
 
-<tr><th colspan="5" align="center">🧰 Infrastructure & Platforms</th></tr>
-<tr align="center">
-  <td><img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/> Linux</td>
-  <td><img src="https://cdn.simpleicons.org/ubuntu/E95420" width="20"/> Ubuntu</td>
-  <td><img src="https://cdn.simpleicons.org/centos/262577" width="20"/> CentOS</td>
-  <td><img src="https://cdn.simpleicons.org/debian/A81D33" width="20"/> Debian</td>
-  <td><img src="https://cdn.simpleicons.org/vmware/607078" width="20"/> VMware</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <!-- 🧰 Infrastructure & Platforms -->
+  <img src="https://img.shields.io/badge/Linux-OS-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-OS-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/CentOS-OS-262577?style=flat&logo=centos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-OS-A81D33?style=flat&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-Virtualization-607078?style=flat&logo=vmware&logoColor=white" />
+</p>
 
 
 ---
