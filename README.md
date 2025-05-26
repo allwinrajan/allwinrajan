@@ -161,10 +161,30 @@ Graduated: 2024
 
 ### Let's Connect
 
-<a href="mailto:alvin.devopsengineer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" /></a>  
-<a href="https://www.linkedin.com/in/alvinirudayarajan"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" /></a>  
-<a href="https://wa.me/9025419508"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>  
-<a href="https://www.youtube.com/@techwith_alvin"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white" /></a>  
+<a href="mailto:alvin.devopsengineer@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/alvinirudayarajan" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://wa.me/9025419508" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@techwith_alvin" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/alvinrajan.in" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow-blueviolet?style=flat&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/alvinrajann" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+</a>
+
 
 ---
 
