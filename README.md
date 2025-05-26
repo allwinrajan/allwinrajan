@@ -164,10 +164,18 @@ Graduated: 2024
 <a href="mailto:alvin.devopsengineer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" /></a>  
 <a href="https://www.linkedin.com/in/alvinirudayarajan"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" /></a>  
 <a href="https://wa.me/9025419508"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat&logo=whatsapp&logoColor=white" /></a>  
-<a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white" /></a>  
+<a href="https://www.youtube.com/@techwithalvin"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white" /></a>  
 
 ---
 
 ### Quote
 
 > “Security is not a product, but a process.” — *Bruce Schneier*
+> “Devops is Devilery a product to end user in a better, cheaper, faster and secure way.” — *Alvin*
+---
+
+### Portfolio Project
+
+[![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge&logo=amazon-aws)](https://myportfolioforalvin.s3.ap-south-1.amazonaws.com/my_Portfolio/index.html)
+
+![Hosted on AWS S3](https://img.shields.io/badge/Hosted_on-AWS_S3-orange?style=flat-square&logo=amazon-aws&logoColor=white)
