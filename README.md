@@ -24,36 +24,38 @@ Graduated: 2024
 
 ---
 
-## Skills & Technologies
+<h2 align="center">🚀 Skills & Technologies</h2>
+
+<div align="center">
 
 <table>
-<tr><th colspan="5" align="left">☁️ Cloud Platforms & Services</th></tr>
-<tr>
-  <td><img src="https://cdn.simpleicons.org/amazonaws/F29111" width="20"/> AWS</td>
+<tr><th colspan="5" align="center">☁️ Cloud Platforms & Services</th></tr>
+<tr align="center">
+  <td><img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="20"/> AWS</td>
   <td><img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="20"/> Azure</td>
   <td><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="20"/> GCP</td>
   <td><img src="https://cdn.simpleicons.org/openstack/ED1944" width="20"/> OpenStack</td>
   <td><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="20"/> Cloudflare</td>
 </tr>
 
-<tr><th colspan="5" align="left">⚙️ DevOps & Automation</th></tr>
-<tr>
+<tr><th colspan="5" align="center">⚙️ DevOps & Automation</th></tr>
+<tr align="center">
   <td><img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> Docker</td>
   <td><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="20"/> Kubernetes</td>
   <td><img src="https://cdn.simpleicons.org/ansible/EE0000" width="20"/> Ansible</td>
   <td><img src="https://cdn.simpleicons.org/terraform/623CE4" width="20"/> Terraform</td>
   <td><img src="https://cdn.simpleicons.org/helm/0F1689" width="20"/> Helm</td>
 </tr>
-<tr>
+<tr align="center">
   <td><img src="https://cdn.simpleicons.org/nginx/009639" width="20"/> NGINX</td>
   <td><img src="https://cdn.simpleicons.org/apache/CA2131" width="20"/> Apache</td>
   <td><img src="https://cdn.simpleicons.org/jenkins/D24939" width="20"/> Jenkins</td>
   <td><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="20"/> GitHub Actions</td>
-  <td><img src="https://cdn.simpleicons.org/argocd/EF7B4D" width="20"/> ArgoCD</td>
+  <td><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/argocd/icon/color/argocd-icon-color.png" width="20"/> ArgoCD</td>
 </tr>
 
-<tr><th colspan="5" align="left">🔐 Security & DevSecOps</th></tr>
-<tr>
+<tr><th colspan="5" align="center">🔐 Security & DevSecOps</th></tr>
+<tr align="center">
   <td><img src="https://cdn.simpleicons.org/protonvpn/89C402" width="20"/> VPN & IAM</td>
   <td><img src="https://cdn.simpleicons.org/wireguard/88171A" width="20"/> WireGuard</td>
   <td><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="20"/> WAF/CDN</td>
@@ -61,35 +63,35 @@ Graduated: 2024
   <td><img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="20"/> SonarQube</td>
 </tr>
 
-<tr><th colspan="5" align="left">📈 Monitoring & Observability</th></tr>
-<tr>
+<tr><th colspan="5" align="center">📈 Monitoring & Observability</th></tr>
+<tr align="center">
   <td><img src="https://cdn.simpleicons.org/prometheus/E6522C" width="20"/> Prometheus</td>
   <td><img src="https://cdn.simpleicons.org/grafana/F46800" width="20"/> Grafana</td>
   <td><img src="https://cdn.simpleicons.org/elastic/005571" width="20"/> ELK Stack</td>
   <td><img src="https://cdn.simpleicons.org/datadog/632CA6" width="20"/> Datadog</td>
-  <td><img src="https://cdn.simpleicons.org/awscloudwatch/FF9900" width="20"/> CloudWatch</td>
+  <td><img src="https://raw.githubusercontent.com/aws-samples/aws-serverless-workshops/master/images/cloudwatch-logo.png" width="20"/> CloudWatch</td>
 </tr>
 
-<tr><th colspan="5" align="left">🛠️ Development & Scripting</th></tr>
-<tr>
+<tr><th colspan="5" align="center">🛠️ Development & Scripting</th></tr>
+<tr align="center">
   <td><img src="https://cdn.simpleicons.org/java/007396" width="20"/> Java</td>
   <td><img src="https://cdn.simpleicons.org/python/3776AB" width="20"/> Python</td>
-  <td><img src="https://cdn.simpleicons.org/bash/4EAA25" width="20"/> Bash</td>
+  <td><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="20"/> Bash</td>
   <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20"/> JavaScript</td>
   <td><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="20"/> .NET</td>
 </tr>
 
-<tr><th colspan="5" align="left">🎨 Frontend & UI Frameworks</th></tr>
-<tr>
+<tr><th colspan="5" align="center">🎨 Frontend & UI Frameworks</th></tr>
+<tr align="center">
   <td><img src="https://cdn.simpleicons.org/react/61DAFB" width="20"/> React</td>
   <td><img src="https://cdn.simpleicons.org/angular/DD0031" width="20"/> Angular</td>
-  <td><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="20"/> Tailwind CSS</td>
+  <td><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="20"/> Tailwind</td>
   <td><img src="https://cdn.simpleicons.org/html5/E34F26" width="20"/> HTML5</td>
   <td><img src="https://cdn.simpleicons.org/css3/1572B6" width="20"/> CSS3</td>
 </tr>
 
-<tr><th colspan="5" align="left">🔄 CI/CD & Version Control</th></tr>
-<tr>
+<tr><th colspan="5" align="center">🔄 CI/CD & Version Control</th></tr>
+<tr align="center">
   <td><img src="https://cdn.simpleicons.org/git/F05032" width="20"/> Git</td>
   <td><img src="https://cdn.simpleicons.org/github/181717" width="20"/> GitHub</td>
   <td><img src="https://cdn.simpleicons.org/gitlab/FCA121" width="20"/> GitLab</td>
@@ -97,8 +99,8 @@ Graduated: 2024
   <td><img src="https://cdn.simpleicons.org/azuredevops/0078D7" width="20"/> Azure DevOps</td>
 </tr>
 
-<tr><th colspan="5" align="left">🧰 Infrastructure & Platforms</th></tr>
-<tr>
+<tr><th colspan="5" align="center">🧰 Infrastructure & Platforms</th></tr>
+<tr align="center">
   <td><img src="https://cdn.simpleicons.org/linux/FCC624" width="20"/> Linux</td>
   <td><img src="https://cdn.simpleicons.org/ubuntu/E95420" width="20"/> Ubuntu</td>
   <td><img src="https://cdn.simpleicons.org/centos/262577" width="20"/> CentOS</td>
@@ -106,6 +108,8 @@ Graduated: 2024
   <td><img src="https://cdn.simpleicons.org/vmware/607078" width="20"/> VMware</td>
 </tr>
 </table>
+
+</div>
 
 
 ---
