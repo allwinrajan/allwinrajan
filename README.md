@@ -115,7 +115,7 @@ Graduated: 2024
 ### Professional Experience
 
 **Agnoshin Technologies** — *Associate Software Engineer (Cloud & DevOps)*  
-*2024 – Present*
+*2025 – Present*
 
 - Designed and deployed complex multi-tier hybrid architecture using AWS and on-prem resources.
 - Integrated DevSecOps best practices including CICD, IAM hardening, and audit-ready controls.
