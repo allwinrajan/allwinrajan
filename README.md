@@ -11,13 +11,13 @@
   <img src="https://img.shields.io/badge/CyberSecurity-Defense-black?style=flat&logo=protonvpn&logoColor=white"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### About Me
 
 I'm **Alvin Irudaya Rajan**, **Cloud & DevOps Engineer** with strong expertise in building resilient, scalable, and secure infrastructure solutions across hybrid environments (AWS + On-Prem). My core passion lies in DevSecOps, infrastructure automation, observability, and securing mission-critical systems.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Education
 
@@ -25,7 +25,7 @@ I'm **Alvin Irudaya Rajan**, **Cloud & DevOps Engineer** with strong expertise i
 **M.A.M. School of Engineering**, Trichy, Tamil Nadu, India  
 Graduated: 2024
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Skills & Technologies
 
@@ -110,7 +110,7 @@ Graduated: 2024
 </p>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Professional Experience
 
@@ -122,7 +122,7 @@ Graduated: 2024
 - Built end-to-end observability stack using Prometheus + Grafana.
 - Automated deployments with Github Actions across environments with rollback strategy.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Projects
 
@@ -141,7 +141,7 @@ Graduated: 2024
 - Ansible playbooks triggered via Jenkins  
 - Blue-green deployment with zero downtime  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Achievements
 
@@ -149,7 +149,7 @@ Graduated: 2024
 - Represented company at **SaaS Connect 2024 (Coimbatore)** — expanded network with SaaS security professionals  
 - Delivered 20+ secure microservices with integrated monitoring and automation
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Personal Projects
 
@@ -157,7 +157,7 @@ Graduated: 2024
 - **Hazardous Gas Detection** - LSTM-based alerts, Flask backend on Lambda  
 - **E-commerce Backend Microservices** - Spring Boot + Docker + Kubernetes with Jenkins pipelines  
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Let's Connect
 
@@ -186,13 +186,15 @@ Graduated: 2024
 </a>
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Quote
 
 > “Security is not a product, but a process.” — *Bruce Schneier* <br>
 > “Devops is Devilery a product to the customer in a better, cheaper, faster and secure way.” — *Alvin*
----
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Portfolio
 
