@@ -205,14 +205,13 @@ Graduated: 2024
 
 
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
-<h2 align="left">Languages and Tools</h2>
+### Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions,docker,kubernetes,ansible,terraform,aws,azure,gcp,cloudflare,vercel,netlify,linux,arch,mint,bash,powershell,postman,vscode,pycharm,anaconda,raspberrypi,regex&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,ansible,terraform,aws,linux,bash,powershell,vercel&perline=8" />
   </a>
 </p>
 
