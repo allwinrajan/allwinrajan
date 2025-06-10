@@ -201,3 +201,19 @@ Graduated: 2024
 [![View my Website](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge&logo=amazon-aws)](https://myportfolioforalvin.s3.ap-south-1.amazonaws.com/my_Portfolio/index.html)
 
 ![Hosted on AWS S3](https://img.shields.io/badge/Hosted_on-AWS_S3-orange?style=flat-square&logo=amazon-aws&logoColor=white)
+
+
+
+
+---
+
+
+<h2 align="left">Languages and Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions,docker,kubernetes,ansible,terraform,aws,azure,gcp,cloudflare,vercel,netlify,linux,arch,mint,bash,powershell,postman,vscode,pycharm,anaconda,raspberrypi,regex&perline=8" />
+  </a>
+</p>
+
+
