@@ -169,10 +169,6 @@ Graduated: 2024
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://wa.me/9025419508" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat&logo=whatsapp&logoColor=white" />
-</a>
-
 <a href="https://www.youtube.com/@techwith_alvin" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube&logoColor=white" />
 </a>
