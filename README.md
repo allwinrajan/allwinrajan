@@ -205,7 +205,7 @@ Graduated: 2024
 
 ### Portfolio 2.0
 
-[![🌐 View My Portfolio](https://img.shields.io/badge/View-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alvinrajancom.vercel.app)
+[![🌐 View My Portfolio](https://img.shields.io/badge/View-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alvinrajan.vercel.app)
 
 ![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
