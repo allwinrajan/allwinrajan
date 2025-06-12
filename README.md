@@ -203,7 +203,7 @@ Graduated: 2024
 ![Hosted on AWS S3](https://img.shields.io/badge/Hosted_on-AWS_S3-orange?style=flat-square&logo=amazon-aws&logoColor=white)
 
 
-### 🚀 Portfolio 2.0
+### Portfolio 2.0
 
 [![🌐 View My Portfolio](https://img.shields.io/badge/View-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alvinrajancom.vercel.app)
 
