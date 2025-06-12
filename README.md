@@ -203,6 +203,11 @@ Graduated: 2024
 ![Hosted on AWS S3](https://img.shields.io/badge/Hosted_on-AWS_S3-orange?style=flat-square&logo=amazon-aws&logoColor=white)
 
 
+### 🚀 Portfolio 2.0
+
+[![🌐 View My Portfolio](https://img.shields.io/badge/View-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alvinrajancom.vercel.app)
+
+![Deployed on Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
